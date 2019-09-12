@@ -1,2 +1,6 @@
-let money;
-let time;
+'use strict';
+
+var money;
+var time;
+
+confirm("");
