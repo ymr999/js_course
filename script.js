@@ -1,0 +1,2 @@
+let money;
+let time;
