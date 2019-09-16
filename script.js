@@ -1,10 +1,10 @@
 'use strict';
 
-let money = prompt("Your months budget?", ""),
-    time = prompt("PLease enter date in format YYYY-MM-DD", "");
+let money = prompt("Ваш бюджет на месяц?", ""),
+    time = prompt("Введите дату в формате YYYY-MM-DD", "");
 
-let question1 = "Your current spends?",
-    question2 = "How much?";    
+let question1 = "Введите обязательную статью расходов в этом месяце",
+    question2 = "Во сколько обойдется?";    
 
 let appData = {
     budget: money,
